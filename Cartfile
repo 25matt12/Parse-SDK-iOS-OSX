@@ -1,2 +1,2 @@
-github "BoltsFramework/Bolts-ObjC" ~> 1.9
+github "BoltsFramework/Bolts-ObjC" "master"
 github "facebook/facebook-ios-sdk" "master"
